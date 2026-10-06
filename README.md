@@ -38,9 +38,9 @@ A Windows meeting assistant that uses Microsoft Teams web captions and the DeepS
 
 ## 下载 / Download
 
-请前往本仓库的 **Releases** 页面下载最新版 Windows 安装程序。
+请前往本仓库的 **Releases** 页面下载最新版 Windows 安装程序。(https://github.com/MilkRabbit/Teams-Meeting-AI/releases/latest)
 
-Download the latest Windows installer from the **Releases** section of this repository.
+Download the latest Windows installer from the **Releases** section of this repository. (https://github.com/MilkRabbit/Teams-Meeting-AI/releases/latest)
 
 文件名 / Installer:
 
