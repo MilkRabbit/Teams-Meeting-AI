@@ -6,6 +6,10 @@
 
 A Windows meeting assistant that uses Microsoft Teams web captions and the DeepSeek API to provide real-time AI assistance during meetings.
 
+## ⬇️ 下载最新版 / Download Latest Release
+
+[**点击这里下载最新版本 / Click here to download the latest version**](https://github.com/MilkRabbit/Teams-Meeting-AI/releases/latest)
+
 ---
 
 ## 主要功能 / Features
